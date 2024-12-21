@@ -11,6 +11,6 @@ autonomous robot boosted with openVLA
 
 The goal of this project is to create a robot capable of interacting with a human and realize an action based on the instruction of the user.
 
-![alt text]([https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcute-robots-gifs&psig=AOvVaw3YwSiLPo3_e3gWiiH_BMJl&ust=1734891141396000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiCqKS7uYoDFQAAAAAdAAAAABAt![image](https://github.com/user-attachments/assets/5f60bd03-7452-467e-b4ad-ee9e51ebffae))](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fblue-robot&psig=AOvVaw0TJFJES-_bOEvM0gbRNbp1&ust=1734891664318000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDBmqC9uYoDFQAAAAAdAAAAABAK)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fblue-robot&psig=AOvVaw0TJFJES-_bOEvM0gbRNbp1&ust=1734891664318000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDBmqC9uYoDFQAAAAAdAAAAABAK)
 
 
