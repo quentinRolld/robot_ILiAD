@@ -7,10 +7,24 @@
 
 <hr style="border: 2px solid gray;"></hr>
 
-Autonomous robot boosted with openVLA 
+![alt text](https://medias.spotern.com/spots/w1280/13/13334-1532336916.webp)
+
+**Autonomous robot boosted with openVLA**
 
 The goal of this project is to create a robot capable of interacting with a human and realize an action based on the instruction of the user.
 
-![alt text](https://medias.spotern.com/spots/w1280/13/13334-1532336916.webp)
+<hr style="border: 2px solid gray;"></hr>
 
+## Sound package :
+- **Speech to text**, retrieve user verbal instructions through USB microphone and traducts to text using ...
+- **User Text to VLM to response text**, inputs user instruction text to the Llama 7B LLM and retrieve the response 
+- **Response text to robot speech**, transform LLM text into audio signal using GTTS, and transmit this signal to a speaker using I2S bus.
+
+## Motor package :
+
+## Vision package :
+
+## OpenVLA package :
+
+<hr style="border: 2px solid gray;"></hr>
 
