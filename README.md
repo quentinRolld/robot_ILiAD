@@ -7,7 +7,7 @@
 
 <hr style="border: 2px solid gray;"></hr>
 
-autonomous robot boosted with openVLA 
+Autonomous robot boosted with openVLA 
 
 The goal of this project is to create a robot capable of interacting with a human and realize an action based on the instruction of the user.
 
