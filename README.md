@@ -11,6 +11,6 @@ autonomous robot boosted with openVLA
 
 The goal of this project is to create a robot capable of interacting with a human and realize an action based on the instruction of the user.
 
-![alt text](<iframe src="https://giphy.com/embed/VH4XUaznNHYMtYHQAV" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/O2UK-binoculars-o2-bubl-VH4XUaznNHYMtYHQAV">via GIPHY</a></p>)
+![alt text](https://giphy.com/embed/VH4XUaznNHYMtYHQAV)
 
 
