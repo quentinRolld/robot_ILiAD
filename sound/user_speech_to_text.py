@@ -1,3 +1,4 @@
+# user speech --> user text
 
 import cv2
 import pyaudio
@@ -17,6 +18,7 @@ VIDEO_OUTPUT = "input_video.avi"
 FPS = 30
 FRAME_WIDTH = 640
 FRAME_HEIGHT = 480
+
 
 # Audio recording function
 def record_audio():
